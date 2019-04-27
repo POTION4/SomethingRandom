@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## SomethingRandom
 
-You can use the [editor on GitHub](https://github.com/POTION4/SomethingRandom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Something random!](/logo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, and so I decided to, you know, do something different everyday. And then I think, well, the thing I do **does not have to be meaningful**, but let's keep track of it! So here I am. And here you are, viewing what sh*ts I have done.
 
-### Markdown
+你好呀！这里是 [42yeah](https://potion4.github.io) 。大学生活每天都感觉一模一样，所以我决定每天都干点儿不同的东西。然后我就想，恩，我做的东西不一定要有意义吧。但是记录一下总是好的！所以我就开始记录了。而你，亲爱的读者，现在就是在我的记录页里头了。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Begin!
 
-```markdown
-Syntax highlighted code block
+### 2019-4-27 (Genesis)
 
-# Header 1
-## Header 2
-### Header 3
+Today, I added a "cola" emoji after my wechat name. 🥤 <- Yep, this one. Some might say isn't it named "[cup with straw](https://emojipedia.org/cup-with-straw/)"? Well, you might be right, but I sincerely don't care.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/POTION4/SomethingRandom/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+今天我在我的微信的名字后面加了瓶可乐。 🥤 有的人可能会说，这不是 "[cup with straw](https://emojipedia.org/cup-with-straw/)" 吗？嗯……随便吧……
