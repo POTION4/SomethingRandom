@@ -8,6 +8,16 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-4-28
+
+![Today's thumbnail](/2.png)
+
+![Photo](/shot.jpg)
+
+Took a few shots at school today. (Yeah, I never done this before.)
+
+在学校拍了一些照片。
+
 ### 2019-4-27 (Genesis)
 
 Today, I added a "cola" emoji after my wechat name. 🥤 <- Yep, this one. Some might say isn't it named "[cup with straw](https://emojipedia.org/cup-with-straw/)"? Well, you might be right, but I sincerely don't care.
