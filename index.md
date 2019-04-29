@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-4-29
+
+![2019-4-29!](/3.png)
+
+Avoid stepping on all edges of tiles as long as that tile is bigger than 0.3mx0.5m.
+
+只要那个格子的面积是大于 0.3mx0.5m 的，我就不踩他们的边。
+
 ### 2019-4-28
 
 ![Today's thumbnail](/2.png)
