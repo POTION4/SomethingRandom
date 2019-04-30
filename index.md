@@ -1,6 +1,6 @@
 ## SomethingRandom
 
-![Something random!](/logo.png)
+<img src="/1.png" id="logo" alt="Something random!">
 
 Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, and so I decided to, you know, do something different everyday. And then I think, well, the thing I do **does not have to be meaningful**, but let's keep track of it! So here I am. And here you are, viewing what sh*ts I have done.
 
