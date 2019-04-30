@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-4-30
+
+![2019-4-30!](/4.png)
+
+Got myself a tote bag. Finally I can rid of my heavy & filthy backpack! How cool is that?
+
+搞了个帆布袋。终于不用再上哪都背书包了！
+
 ### 2019-4-29
 
 ![2019-4-29!](/3.png)
