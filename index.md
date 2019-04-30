@@ -1,6 +1,6 @@
 ## SomethingRandom
 
-<img src="/1.png" id="logo" alt="Something random!">
+<img src="/SomethingRandom/1.png" id="logo" alt="Something random!">
 
 Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, and so I decided to, you know, do something different everyday. And then I think, well, the thing I do **does not have to be meaningful**, but let's keep track of it! So here I am. And here you are, viewing what sh*ts I have done.
 
@@ -39,3 +39,5 @@ Took a few shots at school today. (Yeah, I never done this before.)
 Today, I added a "cola" emoji after my wechat name. 🥤 <- Yep, this one. Some might say isn't it named "[cup with straw](https://emojipedia.org/cup-with-straw/)"? Well, you might be right, but I sincerely don't care.
 
 今天我在我的微信的名字后面加了瓶可乐。 🥤 有的人可能会说，这不是 "[cup with straw](https://emojipedia.org/cup-with-straw/)" 吗？嗯……随便吧……
+
+<script src="/SomethingRandom/sr.js"></script>

@@ -6,7 +6,7 @@ let timeout = 1000;
 
 function changeLogo() {
     let pic = Math.floor(Math.random() * count);
-    logo.src = '/' + pic + '.png';
+    logo.src = '/SomethingRandom/' + pic + '.png';
     timeout--;
     if (timeout <= 20) {
         timeout = 20;
