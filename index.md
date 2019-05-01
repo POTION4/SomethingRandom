@@ -8,6 +8,18 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-1
+
+![2019-5-1!](/5.png)
+
+Went to an aquarium with my girlfriend.
+
+**P.S. This aquarium is STUPID.**
+
+和女朋友第一次去水族馆。
+
+P.S. 这个水族馆真的**辣鸡**。在天河区的天河新天地里，千万别去！
+
 ### 2019-4-30
 
 ![2019-4-30!](/4.png)
