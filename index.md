@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-2
+
+![2019-5-12](/6.png)
+
+Translated [RNGDay](http://rngday.com) into zh-CN and zh-TW.
+
+给 [RNGDay](http://rngday.com) 提交了一份简体中文和繁体中文的翻译。
+
 ### 2019-5-1
 
 ![2019-5-1!](/5.png)
