@@ -8,9 +8,17 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-3
+
+![2019-5-3](/7.png)
+
+Started learning THREE.js.
+
+入坑 THREE.js。
+
 ### 2019-5-2
 
-![2019-5-12](/6.png)
+![2019-5-2](/6.png)
 
 Translated [RNGDay](http://rngday.com) into zh-CN and zh-TW.
 
