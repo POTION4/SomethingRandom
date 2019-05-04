@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-4
+
+![2019-5-4](/8.png)
+
+Went to McDonalds and had a high tea.
+
+去了麦当劳然后喝了个下午茶。那么大鸡趴 + 可乐！
+
 ### 2019-5-3
 
 ![2019-5-3](/7.png)
