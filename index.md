@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-5
+
+![2019-5-5](/9.png)
+
+Took a walk in the rain.
+
+在雨中散步。
+
 ### 2019-5-4
 
 ![2019-5-4](/8.png)
