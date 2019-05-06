@@ -8,6 +8,16 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-6
+
+![2019-5-6](/10.png)
+
+![awesome](/map.png)
+
+Added LOADS of shader effects in my computer homework. And actually finished doing it. Now the whole software looks AWESOME despite it is a map.
+
+加了 __一大堆__ 特效在我的数据结构作业里面。然后我还做完了！现在整个软件看起来特别帅！即使他的唯一作用是导航……
+
 ### 2019-5-5
 
 ![2019-5-5](/9.png)
