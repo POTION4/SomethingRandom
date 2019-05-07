@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-7
+
+![2019-5-7](/11.png)
+
+Bought a medium-sized water bottle with a bump. Goodbye fare barrel! 
+
+买了一个带水泵的水瓶。傻逼酒桶拜拜👋！
+
 ### 2019-5-6
 
 ![2019-5-6](/10.png)
