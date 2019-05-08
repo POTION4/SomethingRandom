@@ -8,6 +8,15 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-8
+
+![2019-5-8](/12.png)
+
+Spicy sausage after dinner! Still delicious!
+
+吃完晚饭之后又再吃了一条辣的香肠！还是那么好吃!
+
+
 ### 2019-5-7
 
 ![2019-5-7](/11.png)
