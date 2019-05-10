@@ -8,6 +8,15 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+
+### 2019-5-10
+
+![2019-5-10](/14.png)
+
+Went to see [Detective Pikachu: The Movie](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Detective_Pikachu).
+
+去看了 [皮卡丘大侦探](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Detective_Pikachu) 电影。
+
 ### 2019-5-9
 
 ![2019-5-9](/13.png)
