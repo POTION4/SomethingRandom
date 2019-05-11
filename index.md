@@ -8,6 +8,13 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-11
+
+![2019-5-11](/15.png)
+
+Bought a spider plant to my dorm. Try to see whether it is capable of refreshing myself and sucking some sorta VOCs in while I code.
+
+买了一颗吊兰。看看他能不能在我打代码的时候让我清新一哈然后顺带吸一些 VOC 。
 
 ### 2019-5-10
 
