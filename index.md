@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-12
+
+![2019-5-12](/16.png)
+
+Staring at the nightsky for ~5min at 2AM in the morning.
+
+在凌晨两点静视夜空大约五分钟。
+
 ### 2019-5-11
 
 ![2019-5-11](/15.png)
