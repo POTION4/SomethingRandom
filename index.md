@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-13
+
+![2019-5-13](/17.png)
+
+Midnight with coke and breadboard. (Involuntarily)
+
+半夜里享用可乐和面包版。（非自愿）
+
 ### 2019-5-12
 
 ![2019-5-12](/16.png)
