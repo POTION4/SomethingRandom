@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-14
+
+![2019-5-14](/18.png)
+
+Precisely sniped a cockroach down in bathroom.
+
+精准的在洗澡间里踩死了一只蟑螂。
+
 ### 2019-5-13
 
 ![2019-5-13](/17.png)
