@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-15
+
+![2019-5-15](/19.png)
+
+Invited my whole dormitory to play Don't Starve Together.
+
+说服了整个宿舍一起玩 [饥荒](https://www.klei.com/games/dont-starve-together)。
+
 ### 2019-5-14
 
 ![2019-5-14](/18.png)
