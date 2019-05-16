@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-16
+
+![2019-5-16](/20.png)
+
+Finished watching [Gravity Falls](https://disneynow.go.com/shows/gravity-falls)!
+
+看完了 [重力泉](https://disneynow.go.com/shows/gravity-falls)！贼好看！
+
 ### 2019-5-15
 
 ![2019-5-15](/19.png)
