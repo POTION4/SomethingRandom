@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-17
+
+![2019-5-17](/21.png)
+
+Committing this at exactly 0:00.
+
+准时在 0:00 提交今天的 SomethingRandom. 
+
 ### 2019-5-16
 
 ![2019-5-16](/20.png)
