@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-19
+
+![2019-5-19](/23.png)
+
+Started using [glide.js](https://glidejs.com/).
+
+入坑 [glide.js](https://glidejs.com/)。
+
 ### 2019-5-18
 
 ![2019-5-18](/22.png)

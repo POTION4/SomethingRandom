@@ -1,6 +1,6 @@
 'use strict';
 
-let count = 22;
+let count = 23;
 let logo = document.getElementById('logo');
 let timeout = 1000;
 
