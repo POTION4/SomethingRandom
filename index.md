@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-20
+
+![2019-5-20](/24.png)
+
+Prepared a present for somebody.
+
+准备了一礼物。
+
 ### 2019-5-19
 
 ![2019-5-19](/23.png)
