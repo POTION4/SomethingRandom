@@ -12,9 +12,9 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ![2019-5-20](/24.png)
 
-Prepared a present for somebody.
+Prepared a present for somebody. Yep, I've never prepared **physical** presents. 
 
-准备了一礼物。
+准备了一礼物。对，我以前真没有准备过实体礼物。
 
 ### 2019-5-19
 
