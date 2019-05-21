@@ -8,6 +8,16 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-21
+
+![2019-5-21](/25.png)
+
+![lightmap!](/lightmap.png)
+
+I baked a lightmap!
+
+我烘出了一个光照贴图！
+
 ### 2019-5-20
 
 ![2019-5-20](/24.png)
