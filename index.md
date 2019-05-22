@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-22
+
+![2019-5-22](/26.png)
+
+Trying to learn [Shadow Mapping](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping)!
+
+开始看 [阴影贴图](https://learnopengl.com/Advanced-Lighting/Shadows/Shadow-Mapping) 了！
+
 ### 2019-5-21
 
 ![2019-5-21](/25.png)
