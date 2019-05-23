@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-23
+
+![2019-5-23](/27.png)
+
+Replacing [assimp](https://assimp.org) with [tinyobjloader](http://syoyo.github.io/tinyobjloader/). Assimp is so cumbersome! 
+
+把 [assimp](https://assimp.org) 换成了 [tinyobjloader](http://syoyo.github.io/tinyobjloader/) 。assimp 太笨重了！
+
 ### 2019-5-22
 
 ![2019-5-22](/26.png)
