@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-24
+
+![2019-5-24](/28.png)
+
+A jog in the morning!
+
+晨跑 2km! 
+
 ### 2019-5-23
 
 ![2019-5-23](/27.png)
