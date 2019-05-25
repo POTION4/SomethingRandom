@@ -8,6 +8,18 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-25
+
+![2019-5-25](/29.png)
+
+Tried to snorkel for 20m (across the pool). Gave up half way, ~10m because there's no more oxygen in my lungs.
+
+P.S. Today's SomethingRandom is something I am not entirely sure of. Because in my memory, I used to be able to snorkel the whole way. The reason why I can't now should be my lack of swimming during the 2019 (up to now). Well whatever, I am gonna record this.
+
+尝试潜泳 20m （也就是跨过整个泳池）。但是到了半路就放弃了，大概 10 米的时候，因为肺里没氧气了……
+
+P.S. 今天的 SR 是我不能完全确定的。因为在我的记忆中，我是可以潜泳全程的。现在可能是因为太久没有游过泳所以水性有点儿丢了。不过随便吧，反正都记下来了。
+
 ### 2019-5-24
 
 ![2019-5-24](/28.png)
