@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-26
+
+![2019-5-27](/30.png)
+
+This is the first time I did a few CET6 exercises!
+
+今天是我第一天碰到 CET6 的阅读！
+
 ### 2019-5-25
 
 ![2019-5-25](/29.png)
