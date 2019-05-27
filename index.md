@@ -8,9 +8,25 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-27
+
+![2019-5-27](/31.png)
+
+Walked the whole way in my _Sports World: Campus Edition_.
+
+P.S. SomethingRandom has hit its first month old! I've somehow thought I could keep it up, though, so no surprises. Hope I can carry it further by doing one nonsense everyday!
+
+P.P.S. Today's [RNGDay](http://rngday.com) Celebrate it with me by doing something totally random! 
+
+在运动世界校园的一跑步记录里快步走完全程（因为吃完饭太饱了）。
+
+P.S. SomethingRandom 一个月大了！但由于我不知道为什么知道我是可以坚持这么久的，所以我一点儿也不惊讶。希望我可以通过每天随便做一件事继续延续这个习惯！
+
+P.P.S. 今天是 [世界随机日](http://rngday.com)！和我一起通过随便做点东西来庆祝他吧！
+
 ### 2019-5-26
 
-![2019-5-27](/30.png)
+![2019-5-26](/30.png)
 
 This is the first time I did a few CET6 exercises!
 
