@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-28
+
+![2019-5-29](/32.png)
+
+Ate Chinese Pancakes alone, without my girlfriend feeding!
+
+今天第一次没有女朋友喂的情况下吃酱香饼！
+
 ### 2019-5-27
 
 ![2019-5-27](/31.png)
