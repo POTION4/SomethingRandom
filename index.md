@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-29
+
+![2019-5-30](/33.png)
+
+First time to use [ZEIT Now](https://zeit.co/now#features) & first time to complete a project outside of China & first time to complete a project in **ONE DAY**!
+
+第一次使用 [ZEIT Now](https://zeit.co/now#features) & 第一次完成一个来自外国的项目 & 第一次在 **一天之内** 做完一个项目！
+
 ### 2019-5-28
 
 ![2019-5-29](/32.png)
