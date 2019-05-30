@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-3
+
+![2019-5-31](/33.png)
+
+Taught my girlfriend how to play [Rimworld](http://rimworldwiki.com)!
+
+在线教导女朋友怎么玩 [环世界](http://rimworldwiki.com)！
+
 ### 2019-5-29
 
 ![2019-5-30](/33.png)
