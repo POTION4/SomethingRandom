@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-5-4
+
+![2019-6-1](/34.png)
+
+Code in the office after it redecorated! Feels awesome!
+
+在装修完的办公室里工作！太帅了！
+
 ### 2019-5-3
 
 ![2019-5-31](/33.png)
