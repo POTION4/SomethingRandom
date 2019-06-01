@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-6-1
+
+![2019-6-1](/36.png)
+
+Used Apple's [VoiceOver](https://www.apple.com/accessibility/mac/vision/) to read my review paper. It's funny! Yet dangerous.
+
+使用 Apple 的 [VoiceOver](https://www.apple.com/accessibility/mac/vision/) 去朗诵我的复习资料……
+
 ### 2019-5-31
 
 ![2019-5-31](/35.png)
