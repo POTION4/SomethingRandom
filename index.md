@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-6-2 
+
+![2019-6-2](/37.png)
+
+Found that you can actually know someone after five level's relation chain!
+
+发现你可以通过五层关系链认识一个你本来就认识的人！
+
 ### 2019-6-1
 
 ![2019-6-1](/36.png)
