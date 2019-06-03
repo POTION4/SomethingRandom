@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-6-3
+
+![2019-6-3](/38.png)
+
+Ate a cake. Bought by me. In order to celebrate birthday!
+
+吃了一个我买的蛋糕。来庆祝生日！
+
 ### 2019-6-2 
 
 ![2019-6-2](/37.png)
