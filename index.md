@@ -8,6 +8,14 @@ Hey there! It's me, [42yeah](https://potion4.github.io). I had a boring life, an
 
 ## Begin!
 
+### 2019-6-9
+
+![2019-6-9](/39.png)
+
+Ate pancake in Taizhou. NEVER ASK FOR THE SECOND ONE (I mean in the same meal).
+
+吃了台州特产，__馅饼__。永远也不要吃第二个（我的意思是同一顿饭上）。
+
 ### 2019-6-3
 
 ![2019-6-3](/38.png)
